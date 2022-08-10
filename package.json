@@ -51,7 +51,7 @@
     "@trpc/client": "^9.27.0",
     "@trpc/server": "^9.27.0",
     "prisma": "^4.1.1",
-    "trpc-qwik-city": "^0.0.0",
+    "trpc-qwik-city": "^0.0.1",
     "trpc-transformer": "^2.0.3",
     "zod": "^3.17.10"
   }
